@@ -19,8 +19,8 @@ This project is a Streamlit-based web application that converts natural language
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/
-   cd 
+   git clone https://github.com/Mayuresh-Bairagi/textToSql
+   cd textToSql
    ```
 2. Create a virtual environment and activate it:
    ```bash
