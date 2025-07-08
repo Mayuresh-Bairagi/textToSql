@@ -1,4 +1,4 @@
-# AI-Powered SQL Query Generator
+# Smart Data Retrieval: Convert Questions to SQL Queries and Execute Instantly
 
 ## Overview
 This project is a Streamlit-based web application that converts natural language questions into SQL queries using Google Gemini AI and executes them on an SQLite database. It allows users to interact with databases without needing SQL knowledge.
