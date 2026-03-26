@@ -54,3 +54,10 @@ This project is a Streamlit-based web application that converts natural language
 - "List students from section C who scored between 50 and 70."
 .
 
+---
+
+## Author
+
+Mayuresh Bairagi
+
+---
